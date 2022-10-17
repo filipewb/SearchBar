@@ -1,10 +1,3 @@
-//
-//  SearchBarComponentView.swift
-//  SearchBarComponent
-//
-//  Created by Gabriel Paschoal on 29/09/22.
-//
-
 import Foundation
 import UIKit
 

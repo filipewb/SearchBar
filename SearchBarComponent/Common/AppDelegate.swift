@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  SearchBarComponent
-//
-//  Created by Gabriel Paschoal on 29/09/22.
-//
-
 import UIKit
 
 @main

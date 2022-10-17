@@ -1,10 +1,3 @@
-//
-//  ViewController.swift
-//  SearchBarComponent
-//
-//  Created by Gabriel Paschoal on 29/09/22.
-//
-
 import UIKit
 
 class SearchViewController: UIViewController {
@@ -16,7 +9,6 @@ class SearchViewController: UIViewController {
         customView.render()
         view.backgroundColor = .white
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
     }
 
 
